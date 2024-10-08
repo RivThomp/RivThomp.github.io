@@ -1,0 +1,18 @@
+header
+{background-color: LightSteelBlue;
+  font-family: "serif", timesnewroman;
+  font-size: 2.5em;
+}
+aside {
+  width: 30%;
+  padding-left: 0px;
+  margin-left: 0px;
+  padding-right: 0px;
+  margin-right: 4px;
+  float: left;
+}
+footer
+{background-color: LightSteelBlue;
+  font-family: "serif", times new roman;
+  font-size: 1em;
+}
